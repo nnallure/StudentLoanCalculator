@@ -33,9 +33,8 @@ Ensure you have Python installed, then execute the script with:
 
 ```bash
 python student_loan_calculator.py
-exit
 
-### Dependencies
+Dependencies
 This script requires the numpy_financial package. Install it using:
 
 ```bash
