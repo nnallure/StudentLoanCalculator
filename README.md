@@ -37,6 +37,6 @@ python student_loan_calculator.py
 Dependencies
 This script requires the numpy_financial package. Install it using:
 
-```bash
+bash
 pip install numpy-financial
 
